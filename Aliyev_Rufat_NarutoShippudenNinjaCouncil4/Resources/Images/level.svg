@@ -1,0 +1,40 @@
+<svg id="SVGNEWLEVEL" xmlns="http://www.w3.org/2000/svg" width="5024" height="1000" viewBox="0 0 5024 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M9.164,871.966h65v85h324v42h-389v-127Z"/>
+  <path class="cls-1" d="M1.164,0.966h7v1000h-8Z"/>
+  <path id="Shape_9_copy" data-name="Shape 9 copy" class="cls-1" d="M5014,1l8.01,0V1001h-8Z"/>
+  <path class="cls-1" d="M687.164,957.966h309v36h-309v-36Z"/>
+  <path id="Shape_33_copy" data-name="Shape 33 copy" class="cls-1" d="M653.164,768.966h116v35h-116v-35Z"/>
+  <path id="Shape_33_copy_2" data-name="Shape 33 copy 2" class="cls-1" d="M843.164,768.966h116v35h-116v-35Z"/>
+  <path id="Shape_33_copy_3" data-name="Shape 33 copy 3" class="cls-1" d="M293.164,771.966h116v36h-116v-36Z"/>
+  <path id="Shape_33_copy_4" data-name="Shape 33 copy 4" class="cls-1" d="M494.164,436.966h116v38h-116v-38Z"/>
+  <path id="Shape_33_copy_5" data-name="Shape 33 copy 5" class="cls-1" d="M1605.16,618.966h116v38h-116v-38Z"/>
+  <path id="Shape_33_copy_6" data-name="Shape 33 copy 6" class="cls-1" d="M1384.16,617.966h203v35h-203v-35Z"/>
+  <path id="Shape_33_copy_7" data-name="Shape 33 copy 7" class="cls-1" d="M614.164,618.966h442v34h-442v-34Z"/>
+  <path id="Shape_33_copy_9" data-name="Shape 33 copy 9" class="cls-1" d="M1110.16,778.966h873v40h-873v-40Z"/>
+  <path id="Shape_33_copy_8" data-name="Shape 33 copy 8" class="cls-1" d="M1717.16,463.966h1418v40h-1418v-40Z"/>
+  <rect class="cls-2" x="656.156" y="769.969" width="114" height="34"/>
+  <g>
+    <path id="Shape_33_copy_11" data-name="Shape 33 copy 11" class="cls-1" d="M4768.01,466h196v35h-196V466Z"/>
+    <path id="Shape_33_copy_6-2" data-name="Shape 33 copy 6" class="cls-1" d="M2570.01,617h343v35h-343V617Z"/>
+    <path id="Shape_33_copy_10" data-name="Shape 33 copy 10" class="cls-1" d="M3140.01,617h697v35h-697V617Z"/>
+    <path id="Shape_33_copy_16" data-name="Shape 33 copy 16" class="cls-1" d="M3633.01,957h257v35h-257V957Z"/>
+    <path id="Shape_33_copy_17" data-name="Shape 33 copy 17" class="cls-1" d="M4931.01,958h78v35h-78V958Z"/>
+    <path id="Shape_33_copy_12" data-name="Shape 33 copy 12" class="cls-1" d="M4384.01,617h629v35h-629V617Z"/>
+    <path id="Shape_33_copy_13" data-name="Shape 33 copy 13" class="cls-1" d="M3820.01,779h1193v40h-1193V779Z"/>
+    <path id="Shape_33_copy_14" data-name="Shape 33 copy 14" class="cls-1" d="M3945.01,958h937v40h-937V958Z"/>
+    <path id="Shape_33_copy_15" data-name="Shape 33 copy 15" class="cls-1" d="M2547.01,958h1024v40h-1024V958Z"/>
+  </g>
+</svg>
